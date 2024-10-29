@@ -15,10 +15,6 @@ def func1():
 
 
 def func2():
-    print("func2")
-
-
-def func2():
     print("ruka func2")
 
 
